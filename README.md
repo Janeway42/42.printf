@@ -10,8 +10,7 @@ Run:
 
 42 The Network Assignment:
 -----------
-Recode the [printf()](https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm) function from libc, with the prototype beeing:
-    int ft_printf(const char *, ...);
+Recode the [printf()](https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm) function from libc, with the prototype: **int ft_printf(const char *, ...);**
 
 Requirements:
 -------------
