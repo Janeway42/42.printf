@@ -8,7 +8,7 @@ Run:
 
 -------------------------------------------------------------------
 
-42 The Network Assignment:
+[42 The Network](https://www.42network.org/) Assignment:
 -----------
 Recode the [printf()](https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm) function from libc, with the prototype: **int ft_printf(const char *, ...);**
 
@@ -27,10 +27,13 @@ The function has to handle the following conversions:
 - %x Prints a number in hexadecimal (base 16) lowercase format.
 - %X Prints a number in hexadecimal (base 16) uppercase format.
 - %% Prints a percent s
-
+---
+- Allowed external functions: malloc, free, write, va_start, va_arg, va_copy, va_end
 -------------------------------------------------------------------
 
 Code format: 
 ------------
 The code must be written in accordance to the 42 set of norms.  
 These include for example a maximum of 25 lines per function, at most 80 columns per line, comments included and a maximum of five functions per file. 
+
+-------------------------------------------------------------------
