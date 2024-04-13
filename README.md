@@ -34,4 +34,4 @@ The function has to handle the following conversions:
 Code format: 
 ------------
 The code must be written in accordance to the 42 set of norms.  
-These include for example a maximum of 25 lines per function and at most 80 columns per line, comments included. 
+These include for example a maximum of 25 lines per function, at most 80 columns per line, comments included and a maximum of five functions per file. 
